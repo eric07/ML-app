@@ -1,0 +1,127 @@
+[
+    {
+        "count": 5, 
+        "word": "villa", 
+        "prob": 0.01948051948051948
+    }, 
+    {
+        "count": 9, 
+        "word": "everton", 
+        "prob": 0.032467532467532464
+    }, 
+    {
+        "count": 5, 
+        "word": "burnley", 
+        "prob": 0.01948051948051948
+    }, 
+    {
+        "count": 8, 
+        "word": "sunderland", 
+        "prob": 0.02922077922077922
+    }, 
+    {
+        "count": 4, 
+        "word": "liverpool", 
+        "prob": 0.016233766233766232
+    }, 
+    {
+        "count": 5, 
+        "word": "newcastle", 
+        "prob": 0.01948051948051948
+    }, 
+    {
+        "count": 6, 
+        "word": "city", 
+        "prob": 0.022727272727272728
+    }, 
+    {
+        "count": 7, 
+        "word": "arsenal", 
+        "prob": 0.025974025974025976
+    }, 
+    {
+        "count": 1, 
+        "word": "gunners", 
+        "prob": 0.006493506493506494
+    }, 
+    {
+        "count": 14, 
+        "word": "chelsea", 
+        "prob": 0.048701298701298704
+    }, 
+    {
+        "count": 7, 
+        "word": "spurs", 
+        "prob": 0.025974025974025976
+    }, 
+    {
+        "count": 1, 
+        "word": "hammers", 
+        "prob": 0.006493506493506494
+    }, 
+    {
+        "count": 3, 
+        "word": "southampton", 
+        "prob": 0.012987012987012988
+    }, 
+    {
+        "count": 1, 
+        "word": "saints", 
+        "prob": 0.006493506493506494
+    }, 
+    {
+        "count": 4, 
+        "word": "swansea", 
+        "prob": 0.016233766233766232
+    }, 
+    {
+        "count": 1, 
+        "word": "swans", 
+        "prob": 0.006493506493506494
+    }, 
+    {
+        "count": 6, 
+        "word": "hull", 
+        "prob": 0.022727272727272728
+    }, 
+    {
+        "count": 25, 
+        "word": "watch", 
+        "prob": 0.08441558441558442
+    }, 
+    {
+        "count": 17, 
+        "word": "goal", 
+        "prob": 0.05844155844155844
+    }, 
+    {
+        "count": 14, 
+        "word": "report", 
+        "prob": 0.048701298701298704
+    }, 
+    {
+        "count": 24, 
+        "word": "news", 
+        "prob": 0.08116883116883117
+    }, 
+    {
+        "count": 32, 
+        "word": "team", 
+        "prob": 0.10714285714285714
+    }, 
+    {
+        "count": 6, 
+        "word": "preview", 
+        "prob": 0.022727272727272728
+    }, 
+    {
+        "count": 1, 
+        "word": "half-time", 
+        "prob": 0.006493506493506494
+    }, 
+    {
+        "count": 1, 
+        "word": "assist", 
+        "prob": 0.006493506493506494
+    }
+]

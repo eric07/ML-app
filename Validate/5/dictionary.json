@@ -1,0 +1,187 @@
+[
+ 	{
+        "name": "Manchester United", 
+        "synonyms": [
+        	"Red Devils",
+        	"MUFC",
+        	"Man Utd",
+        	"Man U"
+        ] 
+    },
+    {
+	    "name": "Aston Villa", 
+	    "synonyms": [
+	        	"Villa",
+	        	"Villans",
+	        	"Lions",
+	        	"AVFC",
+	        	"Claret and Blue"
+        ] 
+    },
+    {
+	    "name": "West Bromwich Albion", 
+	    "synonyms": [
+	        	"West Brom",
+	        	"WBA",
+	        	"Baggies",
+	        	"Throstle",
+	        	"Albion",
+	        	"WBA"
+        ] 
+    },
+    {
+	    "name": "Everton", 
+	    "synonyms": [
+	        	"Toffees",
+	        	"Blues",
+	        	"School of Science",
+	        	"Peoples Club",
+	        	"People's Club",
+	        	"EFC"
+        ] 
+    },
+    {
+	    "name": "Burnley", 
+	    "synonyms": [
+	        	"Clarets"
+        ] 
+    },
+    {
+	    "name": "Stoke City", 
+	    "synonyms": [
+	        	"Potters",
+	        	"SCFC"
+        ] 
+    },
+    {
+	    "name": "Sunderland", 
+	    "synonyms": [
+	        	"Black Cats"
+        ] 
+    },
+    {
+	    "name": "Liverpool", 
+	    "synonyms": [
+	        	"Reds",
+	        	"LFC"
+        ] 
+    },
+    {
+	    "name": "Newcastle", 
+	    "synonyms": [
+	        	"Magpies",
+	        	"Toon Geordies",
+	        	"NUFC"
+        ] 
+    },
+    {
+	    "name": "Manchester City", 
+	    "synonyms": [
+	        	"City",
+	        	"Citizens",
+	        	"Sky Blues",
+	        	"MCFC"
+        ] 
+    },
+    {
+	    "name": "Arsenal", 
+	    "synonyms": [
+	        	"Gunners",
+	        	"AFC"
+        ] 
+    },
+    {
+	    "name": "Chelsea", 
+	    "synonyms": [
+	        	"Blues",
+	        	"Pensioners",
+	        	"CFC"
+        ]
+    },
+    {
+	    "name": "Leicester City", 
+	    "synonyms": [
+	        	"Blues",
+	        	"Foxes",
+	        	"LCFC"
+        ] 
+    },
+    {
+	    "name": "Tottenham Hotspur", 
+	    "synonyms": [
+	        	"Spurs",
+	        	"Lilywhites",
+	        	"THFC",
+	        	"Tottenham"
+        ] 
+    },
+    {
+	    "name": "West Ham United", 
+	    "synonyms": [
+	        	"West Ham",
+	        	"Irons",
+	        	"Hammers",
+	        	"Academy of Football",
+	        	"WHUFC"
+        ] 
+    }, 
+    {
+	    "name": "Southampton", 
+	    "synonyms": [
+	        	"Saints",
+	        	"Southampton FC",
+	        	"SaintsFC"
+        ] 
+    },
+    {
+	    "name": "Queens Park Rangers", 
+	    "synonyms": [
+	        	"QPR",
+	        	"QPRFC",
+	        	"Hoops",
+	        	"Rangers"
+        ] 
+    },
+    {
+	    "name": "Crystal Palace", 
+	    "synonyms": [
+	        	"Eagles",
+	        	"Glaziers Palace",
+	        	"CPFC",
+	        	"CRY"
+        ] 
+    },
+    {
+	    "name": "Swansea City", 
+	    "synonyms": [
+	        	"Swansea",
+	        	"Jacks",
+	        	"Swans",
+	        	"SWA"
+        ] 
+    },
+    {
+	    "name": "Hull City", 
+	    "synonyms": [
+	        	"Tigers",
+	        	"Hull",
+	        	"HCFC"
+        ] 
+    },
+    {
+	    "name": "Events", 
+	    "synonyms": [
+	        	"GOAL",
+	        	"HALF-TIME",
+	        	"KICK-OFF",
+	        	"PENALTY",
+	        	"TEAM",
+	        	"NEWS",
+	        	"WOODWORK",
+	        	"REPORT",
+	        	"ASSIST",
+	        	"WATCH",
+	        	"PREVIEW"
+        ] 
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "count": 17, 
+        "word": "villa", 
+        "prob": 0.04864864864864865
+    }, 
+    {
+        "count": 14, 
+        "word": "everton", 
+        "prob": 0.04054054054054054
+    }, 
+    {
+        "count": 11, 
+        "word": "burnley", 
+        "prob": 0.032432432432432434
+    }, 
+    {
+        "count": 11, 
+        "word": "sunderland", 
+        "prob": 0.032432432432432434
+    }, 
+    {
+        "count": 9, 
+        "word": "liverpool", 
+        "prob": 0.02702702702702703
+    }, 
+    {
+        "count": 1, 
+        "word": "reds", 
+        "prob": 0.005405405405405406
+    }, 
+    {
+        "count": 16, 
+        "word": "newcastle", 
+        "prob": 0.04594594594594595
+    }, 
+    {
+        "count": 1, 
+        "word": "magpies", 
+        "prob": 0.005405405405405406
+    }, 
+    {
+        "count": 20, 
+        "word": "city", 
+        "prob": 0.05675675675675676
+    }, 
+    {
+        "count": 14, 
+        "word": "arsenal", 
+        "prob": 0.04054054054054054
+    }, 
+    {
+        "count": 1, 
+        "word": "gunners", 
+        "prob": 0.005405405405405406
+    }, 
+    {
+        "count": 19, 
+        "word": "chelsea", 
+        "prob": 0.05405405405405406
+    }, 
+    {
+        "count": 9, 
+        "word": "spurs", 
+        "prob": 0.02702702702702703
+    }, 
+    {
+        "count": 1, 
+        "word": "hammers", 
+        "prob": 0.005405405405405406
+    }, 
+    {
+        "count": 1, 
+        "word": "saints", 
+        "prob": 0.005405405405405406
+    }, 
+    {
+        "count": 4, 
+        "word": "southampton", 
+        "prob": 0.013513513513513514
+    }, 
+    {
+        "count": 21, 
+        "word": "swansea", 
+        "prob": 0.05945945945945946
+    }, 
+    {
+        "count": 8, 
+        "word": "hull", 
+        "prob": 0.024324324324324326
+    }, 
+    {
+        "count": 8, 
+        "word": "kick-off", 
+        "prob": 0.024324324324324326
+    }, 
+    {
+        "count": 56, 
+        "word": "goal", 
+        "prob": 0.15405405405405406
+    }, 
+    {
+        "count": 9, 
+        "word": "half-time", 
+        "prob": 0.02702702702702703
+    }, 
+    {
+        "count": 2, 
+        "word": "assist", 
+        "prob": 0.008108108108108109
+    }, 
+    {
+        "count": 2, 
+        "word": "team", 
+        "prob": 0.008108108108108109
+    }, 
+    {
+        "count": 5, 
+        "word": "woodwork", 
+        "prob": 0.016216216216216217
+    }, 
+    {
+        "count": 9, 
+        "word": "penalty", 
+        "prob": 0.02702702702702703
+    }
+]

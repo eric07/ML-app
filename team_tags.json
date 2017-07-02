@@ -1,0 +1,82 @@
+[
+ 	{
+        "tag": "MUN", 
+        "name": "Manchester Utd"
+    },
+    {
+	    "tag": "AVL", 
+	    "name": "Aston Villa"
+    },
+    {
+	    "tag": "WBA", 
+	    "name": "West Brom"
+    },
+    {
+    	"tag": "EVE",
+	    "name": "Everton"
+    },
+    {
+    	"tag": "BUR",
+   	    "name": "Burnley"
+    },
+    {
+    	"tag": "STK",
+	    "name": "Stoke City"
+    },
+    {
+    	"tag": "SUN",
+	    "name": "Sunderland"
+    },
+    {
+    	"tag": "LIV",
+	    "name": "Liverpool"
+    },
+    {
+    	"tag": "NEW",
+	    "name": "Newcastle"
+    },
+    {
+    	"tag": "MCI",
+	    "name": "Manchester City"
+    },
+    {
+    	"tag": "ARS",
+	    "name": "Arsenal"
+    },
+    {
+    	"tag": "CHE",
+	    "name": "Chelsea"
+    },
+    {
+    	"tag": "LEI",
+	    "name": "Leicester City"
+    },
+    {
+    	"tag": "TOT",
+	    "name": "Tottenham"
+    },
+    {
+    	"tag": "WHU",
+	    "name": "West Ham Utd"
+    }, 
+    {
+    	"tag": "SOU",
+	    "name": "Southampton"
+    },
+    {
+    	"tag": "QPR",
+	    "name": "Queens Park Rangers"
+    },
+    {
+    	"tag": "CRY",
+	    "name": "Crystal Palace"
+    },
+    {
+    	"tag": "SWA",
+	    "name": "Swansea City"
+    },
+    {
+    	"tag": "HUL",
+	    "name": "Hull City"
+    }
+]

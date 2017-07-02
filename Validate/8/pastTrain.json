@@ -1,0 +1,3977 @@
+[
+    {
+        "count": 27, 
+        "word": "watch", 
+        "prob": 0.00884117461319861
+    }, 
+    {
+        "count": 13, 
+        "word": "boss", 
+        "prob": 0.004420587306599305
+    }, 
+    {
+        "count": 3, 
+        "word": "manuel", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 5, 
+        "word": "pellegrini", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 2, 
+        "word": "beating", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "southampton", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 32, 
+        "word": "have", 
+        "prob": 0.010419955794126934
+    }, 
+    {
+        "count": 2, 
+        "word": "play", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 13, 
+        "word": "that", 
+        "prob": 0.004420587306599305
+    }, 
+    {
+        "count": 5, 
+        "word": "moment", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 4, 
+        "word": "games", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 9, 
+        "word": "scorers", 
+        "prob": 0.0031575623618566467
+    }, 
+    {
+        "count": 14, 
+        "word": "aguero", 
+        "prob": 0.00473634354278497
+    }, 
+    {
+        "count": 10, 
+        "word": "costa", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 9, 
+        "word": "sanchez", 
+        "prob": 0.0031575623618566467
+    }, 
+    {
+        "count": 6, 
+        "word": "austin", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 7, 
+        "word": "berahino", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 4, 
+        "word": "bony", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "chadli", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "pelle", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "sakho", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 24, 
+        "word": "goals", 
+        "prob": 0.007893905904641616
+    }, 
+    {
+        "count": 13, 
+        "word": "after", 
+        "prob": 0.004420587306599305
+    }, 
+    {
+        "count": 12, 
+        "word": "matches", 
+        "prob": 0.004104831070413641
+    }, 
+    {
+        "count": 1, 
+        "word": "shearer", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "nistelrooy", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "cole", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "torres", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "spurs", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 10, 
+        "word": "everton", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 2, 
+        "word": "ended", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 6, 
+        "word": "minutes", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "without", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 21, 
+        "word": "goal", 
+        "prob": 0.006946637196084623
+    }, 
+    {
+        "count": 12, 
+        "word": "report", 
+        "prob": 0.004104831070413641
+    }, 
+    {
+        "count": 21, 
+        "word": "here", 
+        "prob": 0.006946637196084623
+    }, 
+    {
+        "count": 4, 
+        "word": "standings", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "another", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "dramatic", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "weekend", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 3, 
+        "word": "take", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "breath", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 17, 
+        "word": "matchweek", 
+        "prob": 0.005683612251341964
+    }, 
+    {
+        "count": 2, 
+        "word": "finished", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "sunday", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "starts", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 8, 
+        "word": "tuesday", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 6, 
+        "word": "look", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 7, 
+        "word": "back", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 4, 
+        "word": "latest", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "results", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 25, 
+        "word": "this", 
+        "prob": 0.008209662140827282
+    }, 
+    {
+        "count": 1, 
+        "word": "uruguayan", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 15, 
+        "word": "scored", 
+        "prob": 0.0050520997789706345
+    }, 
+    {
+        "count": 2, 
+        "word": "twice", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "there", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "double", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "dose", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "drama", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "closed", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 6, 
+        "word": "while", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "stole", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "march", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "mauricio", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "pochettino", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 6, 
+        "word": "happy", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "rare", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 10, 
+        "word": "from", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 1, 
+        "word": "helped", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "poll", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 6, 
+        "word": "which", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 8, 
+        "word": "your", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 1, 
+        "word": "favourite", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "head", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 11, 
+        "word": "vote", 
+        "prob": 0.003789074834227976
+    }, 
+    {
+        "count": 5, 
+        "word": "good", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 24, 
+        "word": "news", 
+        "prob": 0.007893905904641616
+    }, 
+    {
+        "count": 1, 
+        "word": "bonus", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "starting", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "shape", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 12, 
+        "word": "what", 
+        "prob": 0.004104831070413641
+    }, 
+    {
+        "count": 7, 
+        "word": "coming", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 6, 
+        "word": "time", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 5, 
+        "word": "bring", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "offload", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 20, 
+        "word": "with", 
+        "prob": 0.006630880959898958
+    }, 
+    {
+        "count": 7, 
+        "word": "week", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 1, 
+        "word": "tips", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mumbai", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 24, 
+        "word": "more", 
+        "prob": 0.007893905904641616
+    }, 
+    {
+        "count": 7, 
+        "word": "than", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 4, 
+        "word": "fans", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "enjoyed", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "inaugural", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "event", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "johannesburg", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "find", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 1, 
+        "word": "common", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "advent", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 4, 
+        "word": "calendar", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 6, 
+        "word": "about", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "seeing", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "smiles", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 11, 
+        "word": "their", 
+        "prob": 0.003789074834227976
+    }, 
+    {
+        "count": 1, 
+        "word": "faces", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "self-funded", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "disability", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "project", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "check", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 4, 
+        "word": "stats", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "including", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "socks", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "referee", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "appointments", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 8, 
+        "word": "been", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 4, 
+        "word": "made", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 9, 
+        "word": "full", 
+        "prob": 0.0031575623618566467
+    }, 
+    {
+        "count": 4, 
+        "word": "list", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "played", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 5, 
+        "word": "where", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "sits", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "all-time", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 10, 
+        "word": "sunderland", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 5, 
+        "word": "live", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "goodison", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "park", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 11, 
+        "word": "only", 
+        "prob": 0.003789074834227976
+    }, 
+    {
+        "count": 6, 
+        "word": "players", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 2, 
+        "word": "ever", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 8, 
+        "word": "first", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 4, 
+        "word": "sergio", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "fine", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 6, 
+        "word": "home", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 3, 
+        "word": "record", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 5, 
+        "word": "fixtures", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 4, 
+        "word": "four", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 6, 
+        "word": "wednesday", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "in-form", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "burnley", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 2, 
+        "word": "striker", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "revels", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "managers", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 2, 
+        "word": "until", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "exactly", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hours", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "pick", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 32, 
+        "word": "team", 
+        "prob": 0.010419955794126934
+    }, 
+    {
+        "count": 2, 
+        "word": "gameweek", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "matchday", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 12, 
+        "word": "action", 
+        "prob": 0.004104831070413641
+    }, 
+    {
+        "count": 1, 
+        "word": "north", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "london", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "derby", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "emirates", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "stadium", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "beaten", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 10, 
+        "word": "last", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 3, 
+        "word": "meetings", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "light", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "consecutive", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "since", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "alex", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "ferguson", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "left", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "score", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "opening", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 10, 
+        "word": "match", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 18, 
+        "word": "season", 
+        "prob": 0.005999368487527629
+    }, 
+    {
+        "count": 3, 
+        "word": "different", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "gabby", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "agbonlahor", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 11, 
+        "word": "against", 
+        "prob": 0.003789074834227976
+    }, 
+    {
+        "count": 1, 
+        "word": "opponents", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "lost", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 4, 
+        "word": "just", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "seven", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "arsene", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 5, 
+        "word": "wenger", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 3, 
+        "word": "winner", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "when", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "away", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "february", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "hear", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 6, 
+        "word": "before", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 6, 
+        "word": "barclays", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 5, 
+        "word": "premier", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 7, 
+        "word": "league", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 8, 
+        "word": "best", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 1, 
+        "word": "said", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "online", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "thanks", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "voting", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "relive", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "last-gasp", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "title-winning", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "mark", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 3, 
+        "word": "monday", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "tight", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "division", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "currently", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "lead", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "free-scoring", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "round-up", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "chinese", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "super", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "heads", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "visit", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "clubs", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "learn", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "practices", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "shortly", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "gets", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "under", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "same", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "match-ups", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "gerrard", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 2, 
+        "word": "returns", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "manquillo", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "lallana", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "enrique", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "allen", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "coutinho", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "unchanged", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "james", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "wilson", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ander", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "herrera", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 8, 
+        "word": "replace", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 2, 
+        "word": "wayne", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "rooney", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "angel", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "maria", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 5, 
+        "word": "three", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 7, 
+        "word": "changes", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 1, 
+        "word": "ireland", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "assaidi", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "bardsley", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sidwell", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "walters", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "arnautovic", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "arfield", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "kightly", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "abeid", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "cisse", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 4, 
+        "word": "start", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "replacing", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "colback", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "sissoko", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "benteke", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ledey", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "zaha", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "puncheon", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mcarthur", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "teams", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 8, 
+        "word": "still", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 1, 
+        "word": "till", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "face", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "reid", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "nolan", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "zarate", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 8, 
+        "word": "come", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 1, 
+        "word": "collins", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "noble", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "jarvis", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sebastien", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "pocognoli", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "youssouf", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "mulumbu", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "chris", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "baird", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "victor", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "anichebe", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "richards", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "britton", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "place", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "rangel", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "shelvey", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "recall", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "dunne", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "expense", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "isla", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "marouane", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fellaini", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "continue", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 6, 
+        "word": "hull", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 8, 
+        "word": "stoke", 
+        "prob": 0.002841806125670982
+    }, 
+    {
+        "count": 1, 
+        "word": "physical", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "presence", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "ready", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "back-to-back", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "wins", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 21, 
+        "word": "will", 
+        "prob": 0.006946637196084623
+    }, 
+    {
+        "count": 4, 
+        "word": "they", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 5, 
+        "word": "make", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 2, 
+        "word": "louis", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "gaal", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "always", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "impressed", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "performance", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 3, 
+        "word": "result", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "crazy", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "coach", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "wasn", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "very", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "pretty", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "times", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "done", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "allardyce", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 6, 
+        "word": "west", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 3, 
+        "word": "brom", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "paul", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "lambert", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "article", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "stretch", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "keeps", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "progressing", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "delighted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "point", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "year", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 5, 
+        "word": "alan", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 4, 
+        "word": "pardew", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 5, 
+        "word": "steven", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "even", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "pleased", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 9, 
+        "word": "table", 
+        "prob": 0.0031575623618566467
+    }, 
+    {
+        "count": 1, 
+        "word": "stands", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 6, 
+        "word": "leicester", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 4, 
+        "word": "liverpool", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "scores", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "return", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "read", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "mathematically", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "champions", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "difficult", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "means", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "swansea", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "swans", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "leave", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "late", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 3, 
+        "word": "move", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 5, 
+        "word": "newcastle", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "boyd", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sweet", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "strike", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "helps", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "climb", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "bottom", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "palace", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 5, 
+        "word": "villa", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 3, 
+        "word": "gives", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "united", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "trafford", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "scan", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "then", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "know", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "injury", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "heavy", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "injuries", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "kick-offs", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 7, 
+        "word": "arsenal", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 16, 
+        "word": "chelsea", 
+        "prob": 0.0053678560151563
+    }, 
+    {
+        "count": 7, 
+        "word": "city", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 4, 
+        "word": "like", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "sides", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sung-yueng", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "second", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "term", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "crystal", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "aston", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "matchwinner", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "hails", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "great", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "outstanding", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "brendan", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "rodgers", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "praises", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "reaction", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 10, 
+        "word": "over", 
+        "prob": 0.0034733185980423114
+    }, 
+    {
+        "count": 1, 
+        "word": "never", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 6, 
+        "word": "preview", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 1, 
+        "word": "duke", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "cambridge", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "monument", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "unveiled", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "part", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "remember", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fastest-ever", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "treble", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hat-trick", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "heroes", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "feature", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "legend", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "opens", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "pitch", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "increase", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "participation", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "beat", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "again", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 4, 
+        "word": "change", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 5, 
+        "word": "history", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 2, 
+        "word": "tonight", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "eriksen", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "stamford", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "bridge", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "erik", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "lamela", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "replaces", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "roberto", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "soldado", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "didier", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 4, 
+        "word": "drogba", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "suspended", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 5, 
+        "word": "diego", 
+        "prob": 0.001894537417113988
+    }, 
+    {
+        "count": 1, 
+        "word": "oxlade-chamberlain", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "comes", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "giroud", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "long", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "cork", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mane", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "schneiderlin", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "coates", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "makes", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "buckley", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "also", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "boyata", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "demichelis", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "kompany", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "mangala", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "rosenior", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "meyler", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "huddlestone", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "quinn", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "osman", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "everyone", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "wants", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "cesc", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fabregas", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "ahead", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 1, 
+        "word": "predictions", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tell", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "yours", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "photo", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "alexis", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "saido", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "charlie", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "points", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 2, 
+        "word": "difference", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 6, 
+        "word": "jose", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 6, 
+        "word": "mourinho", 
+        "prob": 0.0022102936532996525
+    }, 
+    {
+        "count": 7, 
+        "word": "unbeaten", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 1, 
+        "word": "closest", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "rivals", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "eden", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "hazard", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "created", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "chances", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "beautiful", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "important", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "attractive", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "offensive", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "poyet", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "quality", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "someone", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "form", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "game", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "changed", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "manage", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "better", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "leading", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "votes", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "celebrating", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "would", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "remy", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "blues", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "stay", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "clear", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "saints", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gunners", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "snatch", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "victory", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "through", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "steals", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "show", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "improve", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "hard", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "other", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "stop", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "aluko", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "equaliser", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "lifts", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "visitors", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "travel", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "next", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "host", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "were", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "winners", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "passes", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "tactics", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "expert", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "looks", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "impact", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "reads", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "appearances", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "assists", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "longest", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "current", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mins", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "henry", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "golden", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "boot", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 3, 
+        "word": "leads", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "race", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "andrew", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "lifted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "resounding", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "featured", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "compete", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "christmas", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "truce", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "tournament", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "ypres", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "line-up", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tough", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "choice", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "homepage", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "international", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "kicks", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "enjoy", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "happen", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "dream", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "player", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "afford", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "gave", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "masterclass", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "explains", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "earned", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hello", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "harry", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "five", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "star", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "single", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "jumping", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "down", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "some", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "things", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "most", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "recent", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "remind", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "yourself", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "rest", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "panned", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gone", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "join", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "them", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "hunt", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "final", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "frank", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "lampard", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "fourth", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hammers", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "grounds", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "visiting", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "anfield", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 12, 
+        "word": "saturday", 
+        "prob": 0.004104831070413641
+    }, 
+    {
+        "count": 1, 
+        "word": "referees", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "taking", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "charge", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "begins", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "create", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 3, 
+        "word": "involved", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "organise", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "football", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "assemble", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "pre-match", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "improved", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "leaders", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "need", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "maybe", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "needs", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "philosophy", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "little", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "could", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 4, 
+        "word": "draw", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 3, 
+        "word": "level", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "_______", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "certainly", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fear", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 4, 
+        "word": "hughes", 
+        "prob": 0.0015787811809283233
+    }, 
+    {
+        "count": 1, 
+        "word": "stat", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "pack", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "numbers", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "stack", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "full-backs", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "real", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "threat", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "says", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "reminder", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "today", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "deadline", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "near", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "answer", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "problems", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "scout", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "extra", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "update", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "plenty", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "counted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 7, 
+        "word": "think", 
+        "prob": 0.0025260498894853173
+    }, 
+    {
+        "count": 2, 
+        "word": "chance", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "campaign", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "coloccini", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "taylor", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "cabella", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mikel", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "nemanja", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "matic", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "want", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "motivation", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ambition", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "loic", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "atmosphere", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "electric", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "should", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "help", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "defender", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "going", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "impossible", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mission", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "perez", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "something", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "might", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "cause", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hope", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "shock", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "muniesa", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "crouch", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "bellerin", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gibbs", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "welbeck", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "bench", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "moreno", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "bridcutt", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gomez", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "johnson", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "altidore", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "chiriches", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "lennon", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "dier", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ledley", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gayle", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hernandez", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mcauley", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "morrison", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "wait", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "centre", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 2, 
+        "word": "secs", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "marking", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "around", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "country", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "selection", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "pictures", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "half", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "fernando", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "milner", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fernandinho", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "jovetic", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hibbert", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "barkley", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "scene", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "etihad", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "probably", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 3, 
+        "word": "thinking", 
+        "prob": 0.0012630249447426586
+    }, 
+    {
+        "count": 1, 
+        "word": "doing", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "martinez", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "performances", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "strong", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "building", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "towards", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hitting", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "manager", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "value", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "half-time", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "understand", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ourselves", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "such", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mountain", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "else", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "knew", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "opportunity", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "close", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "problem", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "knee", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "ligament", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tomorrow", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "voted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "title", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "within", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "stand", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "really", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "deep", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "boys", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "story", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "unlucky", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "lucky", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tastes", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "defeat", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "allan", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mcgregor", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "saved", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "penalties", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "faced", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "assist", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "card", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "redknapp", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "vital", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "these", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "massive", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "because", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "group", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "clean", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sheet", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "netted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "seconds", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "britannia", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "thriller", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "looking", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "forward", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "weren", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "playing", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "badly", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "present", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "yaya", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "toure", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "papiss", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "competitions", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "conceded", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "young", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "club", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "deserved", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "congratulations", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "apiece", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tense", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "sent", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "eventful", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "whole", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fashioned", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "worked", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "during", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "altogether", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "soft", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "cope", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "offered", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "fair", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "continues", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "unfolded", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "reports", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "saying", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "tunnel", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "vision", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gathering", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 2, 
+        "word": "boleyn", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "ground", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 2, 
+        "word": "kick-off", 
+        "prob": 0.000947268708556994
+    }, 
+    {
+        "count": 1, 
+        "word": "likely", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "qualify", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "europe", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "closer", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "keeper", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "confidence", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "defence", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "wilfried", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "preparations", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "view", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "dzeko", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "definitely", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "deal", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "must", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "mention", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "song", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "control", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "midfield", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "zogbia", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "weimann", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "simpson", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "moore", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "gather", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "haven", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "quite", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "adjusted", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "keep", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "belief", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "hutton", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "behind", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "shows", 
+        "prob": 0.0006315124723713293
+    }, 
+    {
+        "count": 1, 
+        "word": "character", 
+        "prob": 0.0006315124723713293
+    }
+]

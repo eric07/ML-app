@@ -1,0 +1,25 @@
+<ion-view title="Events">
+  <ion-content class="has-header">
+    <ion-list>
+        <div class="row" ng-repeat="friend in friends" style="width:95%;margin:0 auto;border: 2px solid {{friend.color}}; margin-bottom: 2%; margin-top: 2%;">
+            <div class="row" ng-if="friend.avatar != null">
+                <div class="col col-50">
+                    <img src="{{friend.avatar}}" style="max-width:100%;">
+                </div>
+                <div class="col col-50">
+                    <div class="row">
+                        <h4 style="word-wrap: break-word;">{{friend.text}}</h4>
+                    </div>
+                    <div class="row">
+                        <p style="color:lightgray;">{{friend.py_time}}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row" ng-if="friend.avatar == null">
+                <h4>{{friend.text}}</h4>
+                <p style="color:lightgray;float:left;">{{friend.py_time}}</p>
+            </div>
+        </div>
+    </ion-list>
+  </ion-content>
+</ion-view>
