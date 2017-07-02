@@ -59,7 +59,7 @@ class Classify():
                 past+= weightTime * math.log (self.model.timeStampPast)
 
         switch = 0
-        for word in nltk.word_tokenize(tweet):
+        for word in tweet.split():
             if(len(word) < 4):
                 continue
             i, j = self.getProb(word)
@@ -98,8 +98,8 @@ class Classify():
 if __name__ == '__main__':
     classifier = Classify("trainSet.json", "dictionary.json", "./liveTrain.json", "./pastTrain.json", "./liveTrainDic.json", "./pastTrainDic.json")
     print(classifier.classifyOne("SUB Nacho Monreal is forced off with an injury and replaced by Kieran Gibbs. It's West Brom 0-0 Arsenal (23 mins) #WBAARS", 1,1))
-    # print(classifier.classify("Starting today, 20 #BPL matches in 5 days\u2026 Ready? http://t.co/qbszRAau2U"))
-    # print(classifier.classify("PHOTO Arsenal have had the better chances in the early running but it remains 0-0 after 21 mins #WBAARS http://t.co/A3bmkwQ2aT"))
-    # print(classifier.classify("KICK-OFF The second half is under way at The Hawthorns with both teams unchanged after the break #WBAARS"))
-    # print(classifier.classify("WOODWORK #WBAARS"))
-    # print(classifier.classify("Second meets third at St Mary's on Sunday. Who wins? #SOUMCI http://t.co/sJtQESy0fK"))
+    print(classifier.classify("Starting today, 20 #BPL matches in 5 days\u2026 Ready? http://t.co/qbszRAau2U"))
+    print(classifier.classify("PHOTO Arsenal have had the better chances in the early running but it remains 0-0 after 21 mins #WBAARS http://t.co/A3bmkwQ2aT"))
+    print(classifier.classify("KICK-OFF The second half is under way at The Hawthorns with both teams unchanged after the break #WBAARS"))
+    print(classifier.classify("WOODWORK #WBAARS"))
+    print(classifier.classify("Second meets third at St Mary's on Sunday. Who wins? #SOUMCI http://t.co/sJtQESy0fK"))

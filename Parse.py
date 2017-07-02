@@ -50,9 +50,9 @@ class Parse():
         link = None
         if "media" in tweet['entities']:
             link = tweet['entities']['media'][0]['media_url']
-        return {
+        return tweet['text'] 
             # "id" : str(tweet['id']),
-            tweet['text']
+            
             # "created_at" : tweet['created_at'],
             # "py_time": time.strftime('%Y-%m-%d %H:%M:%S', time.strptime(tweet['created_at'],'%a %b %d %H:%M:%S +0000 %Y')),
             # "classId" : -1,
@@ -62,7 +62,7 @@ class Parse():
             # "retweet_count": int(tweet['retweet_count']),
             # "favourites_count": int(tweet['user']['favourites_count']),
             # "avatar": link
-        }
+        
 
     def getKey(self, item):
         return int(item['id'])

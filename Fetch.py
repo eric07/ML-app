@@ -7,6 +7,7 @@ import requests
 from Model import Model
 import sys
 
+
 class Fetch():
     t = None
     def __init__(self):
@@ -19,10 +20,17 @@ class Fetch():
         tweets = self.t.statuses.user_timeline(screen_name="premierleague", count=1, exclude_replies=True, include_rts=False) 
         for i in xrange(len(tweets)):
             self.tweets.append(self.parse.parseOne(tweets[i]))
-            print tweets[i]
+            # print tweets[i]
+        # print tweets[0]
         # self.tweets = self.parse.sortTweets(self.tweets)
+
+    def getTrainProb(self):
+        print "Hello"
 
 
 if __name__ == '__main__':
     fetch = Fetch ()
-    print self.tweets [0]
+    # print fetch.tweets [0]
+    # print "Hello World"
+    # fetch.getTrainProb()
+    # Test2.Hello()
