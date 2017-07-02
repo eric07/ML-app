@@ -9,8 +9,8 @@ class Main():
     parse = None
     classifier = Classify("trainSet.json", "dictionary.json", "./liveTrain.json", "./pastTrain.json", "./liveTrainDic.json", "./pastTrainDic.json")
     fetch = Fetch ()
-    # print (fetch.tweets[0])
-    print(classifier.classifyOne(fetch.tweets[0],1,1))
+    print (fetch.tweets[0])
+    print("Tweet is " + classifier.classifyOne(fetch.tweets[0],1,1))
 
     def joinJsons(self, tweets):
         for line in tweets:
