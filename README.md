@@ -13,5 +13,5 @@ sudo pip install twitter
 Python Main.py
 Fetches latest tweet from premierleague account and determines class
 
-Python Classifier.py gives 6 examples of classification
+Python Classify.py gives 6 examples of classification
 5/6 are classified correctly

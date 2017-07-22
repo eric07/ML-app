@@ -2,12 +2,14 @@ import json, nltk, math
 from Model import Model
 from Fetch import Fetch
 
+# Class implementing Naive Bayes classification
 class Classify():
     def __init__(self, trainSet, dictionary, liveTrain, pastTrain, liveTrainDic, pastTrainDic):
         self.model = Model(trainSet, dictionary, liveTrain, pastTrain, liveTrainDic, pastTrainDic)
         self.live = self.model.load(liveTrain)
         self.past = self.model.load(pastTrain)
 
+    # Find prior probability of word in past and live training set
     def getProb(self, word):
         live = None
         past = None
@@ -22,49 +24,34 @@ class Classify():
                 break
         return live, past
 
+    # Classify a tweet 
     def classifyOne(self, tweet, pBag, pDict):
         #Get initial probabilities
         live, past = self.model.getTrainProb()
         live = math.log(live)
         past = math.log(past)
 
-        #Extract info from tweet
-        # tweet, hashTags, links, ref, timeStamp = self.model.extract(tweet)
-
         #Set importance of each feature
         weightMain = pBag
         weightDic = pDict
-        weightHash = 1
-        weightTime = 1
 
-        # print("Running for (%.2f, %.2f)" % (weightMain, weightDic))
+
+        print ("\n")
+        print("Classifying tweet:")
+        print (tweet)
         
-        #Change settings
-        # 0 only uses general Vocabulary, 1 makes use of others
-        switch = 0
-
-        #Using 6-char hashtags as a feature
-        if switch == 1:
-            for elem in hashTags:
-                if len (elem) == 7:
-                    live+= weightHash * math.log (self.model.hash6live)
-                    past+= weightHash * math.log (self.model.hash6past)
-                    break
-
-        switch = 0
-        #Using timestamps as a feature
-        if switch == 1:
-            if len (timeStamp) > 0:
-                live+= weightTime * math.log (self.model.timeStampLive)
-                past+= weightTime * math.log (self.model.timeStampPast)
-
+        
+        # Calculate Probability of tweet
         switch = 0
         for word in tweet.split():
+            # Disregard articles etc
             if(len(word) < 4):
                 continue
             i, j = self.getProb(word)
+            # if tweet is present add to total probability
             if i != None:
                 live += math.log(i)
+            # else apply Lapplace correction
             else:
                 live += math.log( 1 / float(len(self.model.voc) + self.model.totalLive ))
             if j != None:
@@ -90,9 +77,9 @@ class Classify():
             past = past * weightMain + pastDic * weightDic
 
         if live >= past:
-            return ("live")
+            return ("Tweet is happening now!")
         else:
-            return ("past")
+            return ("Tweet talks about the past!")
 
 
 if __name__ == '__main__':

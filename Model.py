@@ -5,7 +5,6 @@ import re
 class Model():
     def __init__(self, trainSet, dictionary, liveSet, pastSet, liveDicSet, pastDicSet):
         self.voc = []
-        #self.model = Model("trainSet.json", "dictionary.json", "./liveTrain.json", "./pastTrain.json", "./liveTrainDic.json", "./pastTrainDic.json")
         #Get training set numbers
         self.tweets = self.load(trainSet)
         self.dictionary=self.load(dictionary)
@@ -136,6 +135,7 @@ class Model():
     def getTrainProb(self):
         return self.pLive, self.pPast
 
+    # extract Tweet features: to be used for improvements
     def extract(self, tweet):
         hashTags = []
         while(tweet.find("#") != -1):
@@ -191,6 +191,3 @@ if __name__ == '__main__':
     model = Model("trainSet.json", "dictionary.json", "./liveTrain.json", "./pastTrain.json", "./liveTrainDic.json", "./pastTrainDic.json")
     # model.printStats()
     print(self.bagLive)
-    # model.storeProb()
-    # model.storeProbDic()
-
